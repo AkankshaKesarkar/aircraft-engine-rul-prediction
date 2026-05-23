@@ -130,11 +130,11 @@ jupyter notebook notebooks/full_analysis.ipynb
 
 | Model | RMSE | MAE | R² Score |
 |---|---|---|---|
-| Random Forest | ~18.2 | ~13.4 | ~0.81 |
-| Gradient Boosting | ~16.7 | ~12.1 | ~0.84 |
-| Linear Regression | ~28.5 | ~22.1 | ~0.61 |
+| Linear Regression   | 19.908 | 15.070 | 0.9182 |
+| Random Forest       | 20.458 | 15.315 | 0.9136 |
+| Gradient Boosting   | 20.613 | 15.397 | 0.9123 |
 
-> *Best model: Gradient Boosting with R² = 0.84 — explains 84% of RUL variance from sensor readings alone.*
+> *Best model: Gradient Boosting with R² = 0.91*
 
 ---
 
